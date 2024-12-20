@@ -8,6 +8,8 @@ The model distinguishes between two types of images, such as documents and IDs. 
 
 The tool consists of two main scripts that handle training the model and classifying images.
 	
+All ID images are samples found on google images.
+
 1.	`train.py` - Trains the model with a dataset of images and saves the trained model.
 2.	`classify.py` - Loads the trained model and uses it to predict the class of a given image.
 
