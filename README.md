@@ -74,7 +74,7 @@ The image is a document [[0.05471132]]
 
 ```
 ```
-evandentremont@Mac classifier % python classify.py test2.png --percentage
+python classify.py test2.png --percentage
 1/1 ━━━━━━━━━━━━━━━━━━━━ 0s 94ms/step
 The prediction percentage for class 1 is 5.471131801605225%
 ```
